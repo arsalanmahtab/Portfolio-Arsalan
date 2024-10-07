@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'arslanmehtab13@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
+    phone: '03317013679',
+    address: 'Lahore,Punjab Pakistan',
     github: 'https://github.com/said7388',
     facebook: 'https://www.facebook.com/abusaid.riyaz/',
     linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
